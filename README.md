@@ -10,7 +10,7 @@ Good Book is a Python-based application designed to view ePub and PDF files seam
 
 ## Installation
 
-1. Go to: 
+1. Go to: https://drive.google.com/file/d/1o9ZIUF3jDXsqUnI89uicxoQUQclUa--1/view?usp=sharing
 2. Download Good-Book-epub,pdf-Viewer.exe
 
 ## Usage 
